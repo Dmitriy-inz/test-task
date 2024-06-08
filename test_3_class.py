@@ -8,3 +8,4 @@ print(number.__class__)
 
 # <class 'str'>
 # <class 'str'>
+# <class 'int'>
